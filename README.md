@@ -1,6 +1,6 @@
 # libccp [![Build Status](https://travis-ci.org/ccp-project/libccp.svg?branch=master)](https://travis-ci.org/ccp-project/libccp)
 
-`libccp` is an implementation of the core functionality necsesary for a datapath debug
+`libccp` is an implementation of the core functionality necsesary for a datapath debug debug2
 to communicate with a CCP process. The datapath is responsible for providing 
 a few callback functions for modifying state internal to the datapath
 (e.g. congestion window or packet pacing rate) and a few utility functions
